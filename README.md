@@ -1,7 +1,7 @@
 # Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 
 # Course Information
-**Course Code:** CSE 455  
+- **Course Code:** CSE 455  
 - **Course Title:** Computer Ethics & Cyber Law  
 - **Student Name:** Mrinmoy Saha  
 - **Student ID:** 1902050  
